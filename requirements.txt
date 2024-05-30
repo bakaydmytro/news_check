@@ -1,0 +1,9 @@
+beautifulsoup4
+streamlit
+requests
+shelve
+python-dotenv
+langchain
+langchain-openai
+langchain-core
+langchain-text-splitters
